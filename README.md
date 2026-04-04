@@ -54,7 +54,7 @@ To get this project up and running on your local machine, follow these steps:
 
 ## Contact
 If you have any questions or comments about the NextWork Web Project, please contact:
-Shahid Sayed - [Your Email](mailto:shahidsayed399@gmail.com)
+Shahid Sayed - [shahidsayed399@gmail.com](mailto:shahidsayed399@gmail.com)
 
 LinkedIn: https://www.linkedin.com/in/shahid-sayed-311116209/
 
